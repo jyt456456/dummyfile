@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "onYMHiBRUJI+URextPmbSwgLdC9KFSbTLjh6ySmPLY3YXu4TQgt/VR71m8932OTB/2PZVIj8PwnMJ/X8B/cI6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taeya\\OneDrive\\바탕 화면\\file\\project\\dummydataq\\dummydataq\\dummydataq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taeya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\taeya\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\taeya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
